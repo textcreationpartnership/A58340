@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter presented unto Alderman Fouke, Lord Mayor of London, from the two witnesses and prisoners of Jesus Christ in Newgate ... Iohn Reeve and Lodowick Muggleton, the two last spiritual witnesses and true prophets, the only mnisters of the everlasting Gospel ...</title>
+            <author>Reeve, John, 1608-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58340</idno>
+            <idno type="STC">Wing R680</idno>
+            <idno type="STC">ESTC R22813</idno>
+            <idno type="EEBO-CITATION">12490726</idno>
+            <idno type="OCLC">ocm 12490726</idno>
+            <idno type="VID">62373</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58340)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62373)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 290:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter presented unto Alderman Fouke, Lord Mayor of London, from the two witnesses and prisoners of Jesus Christ in Newgate ... Iohn Reeve and Lodowick Muggleton, the two last spiritual witnesses and true prophets, the only mnisters of the everlasting Gospel ...</title>
+                  <author>Reeve, John, 1608-1658.</author>
+                  <author>Muggleton, Lodowick, 1609-1698.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Detention of persons --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:62373:1"/>
+            <pb n="1" facs="tcp:62373:1"/>
+            <head>A Letter preſented unto Alderman <hi>Fouke,</hi> Lord Mayor of <hi>London,</hi> from the two Witneſſes and Priſoners of Jeſus Chriſt, in Newgate, as an eternal witneſs unto him; with a Declaration unto the Recorder <hi>Steel,</hi> and the Lord Chief Juſtice <hi>Rowles,</hi> with the whole Bench and Jury; and in general unto all Civil Ma<g ref="char:EOLhyphen"/>giſtrates and Juries in the World. <hi>Iohn Reeve,</hi> and <hi>Lodowick Muggleton,</hi> the two laſt Spiritual Wit<g ref="char:EOLhyphen"/>neſſes, and true Prophets, and only Miniſters of the e<g ref="char:EOLhyphen"/>verlaſting goſpel, by Commiſſion from the holy Spirit of the true God, the Lord Jeſus Chriſt, God and man, in one Perſon, bleſſed to all Eternity.</head>
+            <p>BY vertue of our Commiſſion received by voyce of words from the glorious mouth of the onely true God upon the Throne of Glo<g ref="char:EOLhyphen"/>ry the Lord Ieſus Chriſt; we ſhall make mani<g ref="char:EOLhyphen"/>feſt unto men, what the foundation is of the power of the Civil Magiſtrate, and that he ought not to meddle with ſpiritual things, which God hath re<g ref="char:EOLhyphen"/>ſerved himſelf, not allowing any man to touch them upon pain of eternal death, but thoſe onely by him anointed for that purpoſe: Firſt, we de<g ref="char:EOLhyphen"/>clare that the Scriptures were given by Inſpiration of the Holy Spirit; therefore except the Mag<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſtrates were inſpired with the ſame Spirit as thoſe that ſpeak the Scriptures, they ought not to judge any man by them, but ought rather to yield obedi<g ref="char:EOLhyphen"/>ence themſelves unto Holy Writ, or they muſt pe<g ref="char:EOLhyphen"/>riſh to eternity. Again, we declare from the Ho<g ref="char:EOLhyphen"/>ly
+<pb n="2" facs="tcp:62373:2" rendition="simple:additions"/>Spirit, that ſince God became fleſh, no Civil Magiſtrate hath any Authority from above to bee the Judge of any mans faith, becauſe it is a ſpiri<g ref="char:EOLhyphen"/>tual inviſible gift from God, that gives a man aſſu<g ref="char:EOLhyphen"/>rance of everlaſting life; but the Magiſtrates Au<g ref="char:EOLhyphen"/>thority is to judge the Civil Lawes of the Land, which is grounded onely upon Reaſon; but the things of Eternity are from God, who is from Eter<g ref="char:EOLhyphen"/>nity to Eternity, therefore Faith is the Evidence of things hoped for, and reaſon is judge of things that are viſible: As for you that are skilful in the Law of Reaſon, as ſoon as you hear an Action to be a breach of the Law, you underſtand preſently what puniſhment belongs to the Fact; therefore the A<g ref="char:EOLhyphen"/>poſtle ſaith, the Magiſtrate is the Miniſter of God for good to them that do well, and a terrour to the evil doer: Again, wee declare from the Lord, that no Magiſtrate by his power from the Law of Reaſon, ought to uſurp the Law of Faith into his Authority, becauſe the Law of Reaſon is utterly ignorant of the Law of Faith, the one being carnal, and the other being ſpiritual; therefore what Ma<g ref="char:EOLhyphen"/>giſtrate ſoever takes upon him to be the judge of us, who are the Meſſengers of Faith in the true God, they are enemies to the Lord Jeſus Chriſt, and ſhall ſurely periſh to eternity: Again, from the Lord Jeſus wee forewarn you that are Magi<g ref="char:EOLhyphen"/>ſtrates, before it is too late, that you tread not in the Lord Mayors ſteps, preſumptuouſly to take up<g ref="char:EOLhyphen"/>on you to judge this Commiſſion of the two edged ſword of God put into our mouths, which if you are left ſo to do, it will cut you in ſunder from the <pb n="3" facs="tcp:62373:2" rendition="simple:additions"/>preſence of our God to all eternity; for our God is a conſuming fire, who did pronounce us curſed to eternity, had we not obeyed his voyce; therefore we perfectly know who ever is left great or ſmall to ſpeak evil of this Commiſſion, which God hath put unto us, by calling it blaſphemy, deluſion, a devil, or lie, in ſo doing, they have ſinned againſt the Holy Ghoſt, and muſt periſh ſoul and body from the preſence of our God, Elect men, and An<g ref="char:EOLhyphen"/>gels, to all eternity; for God hath choſen us two onely, and hath put the two edged ſword of his Spirit into our mouths, as beforeſaid, that whom we are made to pronounce bleſſed, are bleſſed to eternity, and whom we are made to pronounce curſed, are curſed to eternity, and this power no mortal can take out of our hands, neither will our God any more give ſuch power unto men whilſt this World endures: Therefore you that are Judg<g ref="char:EOLhyphen"/>es of this Earth, be wiſe and learned and meddle with thoſe things which you know in this World onely, and call not your God to account at your bar; for who ever arraigneth a Prophet at his Judgement Seat, it is all one as arraigning his God, for a Prophet commeth in the name and power of his God; therefore he that deſpiſeth the Prophet, deſpiſeth him that ſent him. Again, we declare from the Lord Jeſus, if any Magiſtrate pre<g ref="char:EOLhyphen"/>tends to be a Preacher of the Goſpel, be having no Commiſſion from our God ſo to do; if he preach any more after we forbid him, then we have full power to pronounce the ſentence of eternal death upon him, and it is ſo unrevocable: Again, we <pb n="4" facs="tcp:62373:3"/>declare from the Lord Jeſus, that the cauſe why ſo many Magiſtrates and Miniſters muſt ſuffer the vengeance of eternal death, is becauſe with one conſent they fight againſt the true Meſſengers of God, with the temporal Law inveſted upon them by men: Again, woe would have been unto us, if wee had come in our own name; but wee know that God ſent us, as ſure as he ſent <hi>Mo<g ref="char:EOLhyphen"/>ſes,</hi> the Prophets, and the Apoſtles, and that great Authority, as to be Judges of blaſphemy againſt the Holy Ghoſt, wee onely are inveſted withal: Wherefore you Magiſtrates that are not yet under this ſentence of eternal death from the Lord Jeſus, our counſel is, if you deſire bleſſedneſs in the life to come, that you would not meddle to be the Judges of ſpiritual things, knowing you have no Commiſſion from the Lord; remember the coun<g ref="char:EOLhyphen"/>ſel of <hi>Caiphas</hi> the High Prieſt, if it be poſſible, and prevent the Lord Mayors eternal curſe.</p>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>THe 15. of <hi>September,</hi> 1653. you may re<g ref="char:EOLhyphen"/>member by vertue of your Warrant wee were brought before you, not being guilty of the breach of any civil Law, the man Jeſus our onely God, elect men and Angels, will bear us witneſs too: but we being accuſed of words only in relation to a Commiſſion received from our God by voice from Heaven; it was your pleaſure to commit us unto Newgate, as the only offenders in this world, notwithſtanding I gave you a full ac<g ref="char:EOLhyphen"/>count of the Lord Jeſus ſpeaking unto me by voice <pb n="5" facs="tcp:62373:3"/>of words, three morning together, commanding me to deliver this his wonderful and ſtrange meſ<g ref="char:EOLhyphen"/>ſage unto Magiſtrates, Miniſters, and people, con<g ref="char:EOLhyphen"/>cerning his bleſſing or curſing them to eternity, ac<g ref="char:EOLhyphen"/>cording to their obedience or diſobedience unto this dreadful meſſage of the Lord: and Sir, you may remember that I told you, that I deſired the Lord Ieſus that I might not be his meſſenger of ſuch ſharp tidings unto men; and but for this my deſire the Lord Ieſus by voyce of words did ſay, that my body ſhould be my hell, and my ſpirit ſhould be the Devil that ſhould torment to eterni<g ref="char:EOLhyphen"/>ty, if I did not obey his command, in declaring his pleaſure unto men: and who was I, poor mortal clay, that I ſhould withſtand the great and glorious Potter of Heaven and Earth, the Lord Ieſus Chriſt my God alone bleſſed to all eternity?</p>
+                  <p>Again, Sir, You may remember, you did aske us divers queſtions concerning our God, and our anſwer un<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o ſome of your queſtions were judged as blaſphemy; but we told you that you had no Commiſſion from our God to be the judge of ſpi<g ref="char:EOLhyphen"/>ritual things, that are eternal in the world to come; but you by Commiſſion from m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n are the judge of temporal things, onely in this periſing world: and we onely are the judges, of ſpiritual things, that are eternal in the world to come, by a Commiſ<g ref="char:EOLhyphen"/>ſion from the Throne of Glory, from the glorious mouth of our Lord Ieſus Chriſt.</p>
+                  <p>Sir, if there were any ſparke of heavenly light ſhining in your underſtanding from the Holy Spirit of Chriſt Ieſus, then you ſhould know in due time <pb n="6" facs="tcp:62373:4" rendition="simple:additions"/>that what I have been made to write in this paper, is as true as God is Truth; but now it is too late, your time is paſt, becauſe my God hath no delight in your perſon, therefore he hath left you, as he did King <hi>Saul,</hi> to commit that unpardonable ſinne againſt the Holy Ghoſt, or Spirit that ſent us: Firſt, by your denying the Lord Jeſus to be the only God: Secondly, you may remember, like a curſed Blaſ<g ref="char:EOLhyphen"/>phemer againſt the Lord Jeſus Chriſt, God and Man in one perſon bleſſed to eternity, you denyed that ever the eternal God became fleſh, man, or creature, or that God is in the perſon of a man at this time in Heaven or Glory.</p>
+                  <p>Again, Sir, you may remember when you were queſtioned by us, what your God was; your an<g ref="char:EOLhyphen"/>ſwer was, that he is an infinite Spirit; but you could not deſcribe him to be in any eſſential form or perſon: Truly I doe not marvel at your igno<g ref="char:EOLhyphen"/>rance, becauſe you are the ſeed of the Serpent Re<g ref="char:EOLhyphen"/>probate Angel that was caſt out of Heaven, reſer<g ref="char:EOLhyphen"/>ved in Chaines of darkneſs or unbeliefe, that you may worſhip a God of words onely, inſtead of the true perſonal God, untill the Judgement of the great Day: my God, the Man Ieſus in glory hath given you your portion already, the penny of this world, your ſoules chiefe delight: make your life that is put a moment as pleaſant as poſſible you can, ſeeing it is all the Heaven you are like to enjoy, as ſure as there is a God.</p>
+                  <p>Again, Sir, this I know, by revelation from the Holy Spirit, that in the world to come, you ſhall never ſee the glorious face of our God the Man <pb n="7" facs="tcp:62373:4"/>Ieſus: becauſe before many Witneſſes you ſaid that God hath no face at all. Sir, once more unto your own perſon, becauſe you have blaſphemed againſt the glorious perſon of our onely wiſe God the Man Ieſus, and againſt the Sacred Scriptures that renders all glory from elect men and Angels to him alone, both in Heaven and in Earth, and againſt the Holy Spirit that ſent us, and for your unjuſt committing of us unto your priſon of Hell, to ſatisfie the malice of curſed accuſers of your ſpi<g ref="char:EOLhyphen"/>rit, that you might prevent (if it were poſſible) the very purpoſe of God: Wherefore in obedience un<g ref="char:EOLhyphen"/>to our Commiſſion received from the Holy Spirit, from the preſence of our only wiſe God and ever<g ref="char:EOLhyphen"/>laſting Father, the Man Ieſus, elect men and Angels, we pronounce you curſed and dammed ſoul and body to eternity: this is a ſeale unto you from the Lord Ieſus, and a warning unto all perſecuting ſpi<g ref="char:EOLhyphen"/>rits; until the great and notable Day of the eternal vengeance of my God, then ſhall your own body be your priſon of Hell, and your Angelical proud and envious ſpirit ſhall be the Divel that ſhall burn within your body more intolerable then any natu<g ref="char:EOLhyphen"/>ral fire in this World, and your body ſhall burn more fiery then any natural brimſtone; your ſpi<g ref="char:EOLhyphen"/>rit and body being barr'd cloſe priſoners together in utter darkneſs, never ſeeing the face of God, men, or Angels, nor your own face or perſon, for everlaſting, as aforeſaid.</p>
+                  <trailer>FINIS.</trailer>
+               </body>
+            </floatingText>
+         </div>
+      </body>
+   </text>
+</TEI>
